@@ -10,7 +10,8 @@ Toggle Login/Signup: Easily switch between login and signup views within the sam
 Customizable Background: Background image fills the viewport and adjusts seamlessly across devices.
 
 Demo
-Include a link or GIF here to demonstrate the live form if available.
+![pro1 (1) (1)](https://github.com/user-attachments/assets/e31b8dc5-dde1-47b3-8d19-5feee0d19f99)
+
 
 Technologies Used
 HTML5: Markup structure for the form and UI components.
