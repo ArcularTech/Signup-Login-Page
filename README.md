@@ -8,6 +8,7 @@ Hover and Focus Animations: Interactive animations for input fields and buttons,
 Responsive Design: Fully responsive layout that adapts to various screen sizes.
 Toggle Login/Signup: Easily switch between login and signup views within the same form container.
 Customizable Background: Background image fills the viewport and adjusts seamlessly across devices.
+
 Demo
 Include a link or GIF here to demonstrate the live form if available.
 
@@ -34,12 +35,15 @@ Customization: Edit style.css to adjust colors, borders, or other styles as desi
 Project Structure
 
 your-repository/
+
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling and animations
 ├── script.js        # Optional JavaScript for additional functionality
 ├── README.md        # Project overview and instructions
 └── assets/
     └── bg.jpeg      # Background image
+
+
 Customization
 Background Image: Replace bg.jpeg with any preferred image in the assets/ directory.
 CSS Adjustments: Update colors, borders, and animations in style.css to match your theme.
